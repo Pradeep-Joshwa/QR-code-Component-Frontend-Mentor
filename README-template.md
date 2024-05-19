@@ -19,11 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+![Screenshot (125)](https://github.com/Pradeep-Joshwa/QR-code-Component-Frontend-Mentor/assets/100898870/6ecb37b8-fc09-4bbc-b50b-dc8f513f7610)
+![Screenshot (126)](https://github.com/Pradeep-Joshwa/QR-code-Component-Frontend-Mentor/assets/100898870/c3e3ec28-d5b8-42a7-a404-8260945d0cd0)
+![Screenshot (124)](https://github.com/Pradeep-Joshwa/QR-code-Component-Frontend-Mentor/assets/100898870/ac3283b3-2b65-4bce-ab80-692129478ee3)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-sez79v6-Gz)
+- Live Site URL: [Click here](https://qrcode-frontend-mentor-pradeepjoshwa.netlify.app/)
 
 ## My process
 
